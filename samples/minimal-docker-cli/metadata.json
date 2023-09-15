@@ -1,0 +1,9 @@
+{
+  "ui": {
+    "dashboard-tab": {
+      "title": "Minimal Docker CLI",
+      "root": "/ui",
+      "src": "index.html"
+    }
+  }
+}

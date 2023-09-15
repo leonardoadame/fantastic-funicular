@@ -1,0 +1,12 @@
+{
+  "vm": {
+    "image": "${DESKTOP_PLUGIN_IMAGE}"
+  },
+  "ui": {
+    "dashboard-tab": {
+      "title": "Hello Backend Extension",
+      "root": "/ui",
+      "src": "index.html"
+    }
+  }
+}

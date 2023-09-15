@@ -1,0 +1,9 @@
+{
+  "ui": {
+    "dashboard-tab": {
+      "title": "Min FrontEnd Extension",
+      "root": "/ui",
+      "src": "index.html"
+    }
+  }
+}
